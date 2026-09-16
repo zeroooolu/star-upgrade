@@ -1,0 +1,11 @@
+{
+  "trailingSlash": false,
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/prototype-tier/index.html" },
+    { "source": "/app", "destination": "/prototype-tier/app.html" },
+    { "source": "/plans", "destination": "/prototype-tier/plans.html" },
+    { "source": "/capacity", "destination": "/prototype-tier/capacity.html" },
+    { "source": "/service-center", "destination": "/prototype-tier/service-center.html" }
+  ]
+}
